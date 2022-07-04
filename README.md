@@ -1,2 +1,2 @@
-# dark-mode-light-mode
+## Dark mode - Light mode
 Manipulando o DOM - Switching between Light/Dark mode
